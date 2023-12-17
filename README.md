@@ -21,6 +21,7 @@ This project utilizes `JavaScript` and the `FontAwesome Icons Library`. It was d
 - JavaScript
 - CSS
 - HTML5
+- FontAwesome Icons Library
 
 ## Concepts
 
