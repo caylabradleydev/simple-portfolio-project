@@ -6,9 +6,13 @@ A **_Personal Portfolio Project_** designed to showcase my evergrowing skills an
 
 This project utilizes `JavaScript` and the `FontAwesome Icons Library` on the frontend. Visitors will have the opportunity to contact the developer directly through the `Formspree API`.
 
+## Demo
+
+[Simple Portfolio Demo](https://caylabradleydev-simpleportfolio.netlify.app/)
+
 ---
 
-<img src="/client/static/assets/images/basic-portfolio.png" width="100%"/>
+<img src="./static/assets/images/simple-portfolio-full.png" width="100%"/>
 
 ---
 
