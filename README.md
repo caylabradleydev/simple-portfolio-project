@@ -2,9 +2,9 @@
 
 ## About
 
-A **_Personal Portfolio Project_** designed to showcase my evergrowing skills and projects.
+A **_Personal Portfolio Project_** showcasing my evergrowing skills and projects.
 
-This project utilizes `JavaScript` and the `FontAwesome Icons Library` on the frontend. Visitors will have the opportunity to contact the developer directly through the `Formspree API`.
+This project utilizes `JavaScript` and the `FontAwesome Icons Library`. It was designed to practice Advanced Frontend development concepts such as DOM manipulation, Event Propagation, Intersection Observer API, CSS Grid, and more.
 
 ## Demo
 
