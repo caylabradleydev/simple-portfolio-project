@@ -18,23 +18,23 @@ This project utilizes `JavaScript` and the `FontAwesome Icons Library` on the fr
 
 ## Technology
 
--JavaScript
--CSS
--HTML5
+- JavaScript
+- CSS
+- HTML5
 
 ## Concepts
 
--Advanced DOM Manipulation
--Lifecycle DOM Events
--DOM Traversing
--Event Handling
--Event Propagation
--Event Delegation
--Intersection Observer API
--CSS Custom Properties
--CSS Grid
--BEM Naming Conventions
--Semantic HTML
+- Advanced DOM Manipulation
+- Lifecycle DOM Events
+- DOM Traversing
+- Event Handling
+- Event Propagation
+- Event Delegation
+- Intersection Observer API
+- CSS Custom Properties
+- CSS Grid
+- BEM Naming Conventions
+- Semantic HTML
 
 ## Updates
 
